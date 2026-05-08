@@ -12,7 +12,7 @@ HTML = """
 </head>
 <body>
 
-<h1>🐱 vs 🐶 Voting App</h1>
+<h1>Version 2</h1>
 
 <form action="/vote/cats">
     <button type="submit">Vote Cats</button>
