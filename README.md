@@ -1,0 +1,1 @@
+Built and deployed a Flask-based voting application using Docker, Kubernetes, Jenkins, and GitHub. Implemented CI/CD pipeline for automated Docker image build, push, and Kubernetes deployment using Jenkins Pipeline and YAML manifests.
